@@ -1,12 +1,10 @@
 package generated.kinoApp;
 
-import java.util.Calendar;
-
 public class Main {
 
 	public static void main(String[] args) {
-// =========== Erzeugen der Kinostruktur =================
-		
+		KinoApp.getInstance();
+// =============== Eigene Experimente =============		
 
 	}
 
