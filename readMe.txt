@@ -10,6 +10,6 @@ Code-Transfer zu TecRacer
     f) Die genutzten Methoden sind alle in der (Singleton-)Klasse KinoApp enthalten (ganz unten im Editable Code mit der Kennung 80)
 3.  Es gibt einige Vereinfachungen in der Anwendung selbst:
     a) Beträge haben keine Währung (oder immer Euro). Die Beträge sind rationale Zahlen (auch zu Lernzwecken, um optimale Genauigkeit zu haben)
-    b) Reservierungen mit mehreren Plätzen werden können nichtzusammenhängend sein
+    b) Reservierungen mit mehreren Plätzen können nichtzusammenhängend sein
 
 
